@@ -9,7 +9,7 @@ Download the project. Then compile and execute it using
 java -jar "dist/QytetetJava.jar"
 ```
 
-## Build with 🛠️
+## Built with 🛠️
 
 * [JAVA](http://www.java.com) 
 * [NETBEANS](https://www.netbeans.org) 
